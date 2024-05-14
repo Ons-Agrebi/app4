@@ -1,1 +1,2 @@
 text in feature1
+local modif in the feature 1
